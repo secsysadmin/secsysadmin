@@ -1,4 +1,14 @@
-![Student Engineers' Council](https://i.imgur.com/rMZjdb2.png)
+# Student Engineers' Council at Texas A&M University
+This GitHub repository holds all of our applications for SEC.
+
+## Contact
+
+**Phone:** 979.847.8567
+
+**Email:** [sysadmin@sec.tamu.edu](mailto:sysadmin@sec.tamu.edu)
+
+[Student Engineers' Council](https://sec.tamu.edu)
+
 
 <!--
 **secsysadmin/secsysadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
