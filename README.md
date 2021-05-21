@@ -1,6 +1,4 @@
-```
-![Student Engineers' Council](https://i.imgur.com/QOaJYed.png)
-```
+![Student Engineers' Council](https://i.imgur.com/rMZjdb2.png)
 
 <!--
 **secsysadmin/secsysadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
